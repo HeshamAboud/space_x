@@ -1,6 +1,6 @@
 class Constants {
   // -------------------- App name --------------------
-  static const appName = "Space Xplore";
+  static const appName = "Space x";
 
   // -------------------- App welcome messages --------------------
   static const welcomeText = "Welcome to ${Constants.appName}";
